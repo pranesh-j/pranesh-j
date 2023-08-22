@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on [QReth App](https://github.com/pranesh-j/QReth)
 
-- 🌱 I’m currently learning **PyQT5**
+- 🌱 I’m currently learning **QT Framework**
 
 - 📫 How to reach me **jahagirdar.pran@gmail.com**
 
