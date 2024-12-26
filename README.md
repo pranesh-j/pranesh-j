@@ -2,9 +2,9 @@
 <h3 align="center">Learning and exploring software development.</h3>
 <img align="right" alt="Coding" width="350" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjFlZDQ1MDRlNjA1NTM3MDk2ZjIwMjdmMGVkZjJjZmRiNmNkN2FkYiZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif">
 
-- 🔭 I’m currently working on [QReth App](https://github.com/pranesh-j/QReth)
+- 🔭 I’m currently working on [QReth App]([https://github.com/pranesh-j/books-buddy](https://github.com/pranesh-j/booksbuddy-backend))
 
-- 🌱 I’m currently learning **QT Framework**
+- 🌱 I’m currently expanding my knowledge in Django and generative AI
 
 - 📫 How to reach me **jahagirdar.pran@gmail.com**
 
