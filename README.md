@@ -1,26 +1,47 @@
 <h1 align="center">Hi 👋, I'm Pranesh Jahagirdar</h1>
 <h3 align="center">Learning and exploring software development.</h3>
-<img align="right" alt="Coding" width="350" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjFlZDQ1MDRlNjA1NTM3MDk2ZjIwMjdmMGVkZjJjZmRiNmNkN2FkYiZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif">
 
-- 🔭 I’m currently working on [QReth App]([https://github.com/pranesh-j/books-buddy](https://github.com/pranesh-j/booksbuddy-backend))
+<!-- Contribution Graph -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pranesh-j/pranesh-j/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/pranesh-j/pranesh-j/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/pranesh-j/pranesh-j/output/github-contribution-grid-snake.svg">
+</picture>
 
-- 🌱 I’m currently expanding my knowledge in Django and generative AI
+<!-- Total Contributions -->
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=pranesh-j&show_icons=true&theme=dark&hide_title=true&hide_rank=true&hide=stars,issues,contribs&count_private=true" alt="GitHub Stats" />
+</div>
 
-- 📫 How to reach me **jahagirdar.pran@gmail.com**
+<!-- About Me Section -->
+<div align="center">
+  <img align="right" alt="Coding" width="350" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjFlZDQ1MDRlNjA1NTM3MDk2ZjIwMjdmMGVkZjJjZmRiNmNkN2FkYiZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif">
+  
+  ### About Me
+  
+  - 🔭 Currently working on [QReth App](https://github.com/pranesh-j/booksbuddy-backend)
+  - 🌱 Expanding knowledge in Django and Generative AI
+  - ⚡ Mechanical engineer turned software developer
+  - 📫 Reach me at: jahagirdar.pran@gmail.com
+</div>
 
-- ⚡ Fun fact **I am a mechanical engineer by degree**
+<!-- Skills Section -->
+<h2 align="center">Tech Stack</h2>
+<div align="center">
+  
+  ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+  ![Django](https://img.shields.io/badge/-Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+  ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+  ![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+  ![Qt](https://img.shields.io/badge/-Qt-41CD52?style=for-the-badge&logo=qt&logoColor=white)
+  
+</div>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/pranesh jahagirdar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pranesh jahagirdar" height="30" width="40" /></a>
-<a href="https://www.youtube.com/@techbaiter" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="techbaiter" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.qt.io/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg" alt="qt" width="40" height="40"/> </a> </p>
-
-<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pranesh-j&show_icons=true&locale=en&layout=compact" alt="pranesh-j" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pranesh-j&" alt="pranesh-j" /></p>
+<!-- Connect Section -->
+<h2 align="center">Connect With Me</h2>
+<div align="center">
+  
+  [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/pranesh-jahagirdar)
+  [![YouTube](https://img.shields.io/badge/-YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@techbaiter)
+  
+</div>
