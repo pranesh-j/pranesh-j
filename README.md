@@ -17,7 +17,7 @@
 ### About Me
 <img align="right" alt="Coding" width="350" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjFlZDQ1MDRlNjA1NTM3MDk2ZjIwMjdmMGVkZjJjZmRiNmNkN2FkYiZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif">
 
-- 🔭 Currently working on Subplexity, an AI search engine that answers questions based on reddit resources.
+- 🔭 Currently working on Ghiblit, an AI search engine that answers questions based on reddit resources.
 - 🌱 Expanding knowledge in Golang and Gen AI.
 - ⚡ Mechanical engineer turned software developer.
 - 📫 Reach me at: jahagirdar.pran@gmail.com
