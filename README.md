@@ -33,9 +33,8 @@
 </div>
 
 ### Projects
-📚 **BooksBuddy**
-- [Backend (Python)](https://github.com/pranesh-j/booksbuddy-backend)
-- [Frontend](https://github.com/pranesh-j/booksbuddy-frontend)
+📚 **Ghiblit**
+- (https://github.com/pranesh-j/ghibliz)
 
 🔐 **QReth**
 - Generate QR code of ETH wallet address using Python which interacts with Ethereum L1 blockchain
